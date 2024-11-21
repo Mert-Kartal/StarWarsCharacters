@@ -1,0 +1,25 @@
+
+.background{
+    background-image: url(wallpaperflare.com_wallpaper.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+
+#showImage{
+  margin-bottom: 265px;
+}
+
+#renderCharacters{
+  display: none;
+}
+
+#renderRadio{
+  display: none;
+}
+
+input{
+  display: inline-block;
+}
